@@ -36,6 +36,7 @@ Copy code
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/restaurant-landing-page.git
+git clone https://github.com/Gadwalaswetha/Restaurant-app
 cd restaurant-landing-page
 https://restaurant-app-8dno.vercel.app/
+
