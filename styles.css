@@ -16,7 +16,8 @@ body {
 /* Navbar */ 
 .navbar { 
   background: #ff6f6f; 
-  padding: 5px;  
+  padding: 5px; 
+  padding-right:250px;
 } 
 .nav-links { 
   list-style: none; 
